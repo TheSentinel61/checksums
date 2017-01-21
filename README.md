@@ -13,7 +13,7 @@ for easy comparison.
 * [x] Iterate through each file within a directory
 * [x] Compute the SHA1 checksum of each file
 * [x] Output the SHA1 checksum and filename separated by a space
-* [ ] Allow the output to be redirected
+* [x] Allow the output to be redirected
 
 ## Instructions
 
